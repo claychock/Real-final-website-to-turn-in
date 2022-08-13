@@ -1,0 +1,25 @@
+/* for overwriting the og bootstrap */
+
+.site-heading h1{
+    font-weight: bolder;
+    color: blue;
+}
+h1 {
+    color: green;
+}
+
+.skatevido {
+    align-content: center;
+}
+
+.uleducation {
+    color: rebeccapurple; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.throwie {
+    align-content: center;
+}
+
+.backgrounds {
+    background-color: bisque;
+}
